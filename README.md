@@ -16,7 +16,7 @@ File Structure seed as teached in the Meteor Book written by Sacha Greif &amp; T
 ├── lib/
 │     ├── collections/
 │     ├── permissions.js
-│     ├── router.js
+│     └── router.js
 │
 ├── packages/
 |
