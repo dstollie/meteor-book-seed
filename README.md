@@ -1,5 +1,5 @@
-# meteor-book-seed
-File Structure seed as teached in the Meteor Book written by Sacha Greif &amp; Tom Coleman
+# Meteor Book Seed
+___
 
 Life is already hard enough, please your heart and directly start your first meteor project without having to create the folder and file structure.
 
